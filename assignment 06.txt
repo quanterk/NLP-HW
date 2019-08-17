@@ -1,0 +1,30 @@
+reasons for:
+
+1.overfiting:
+  1.1 model is too complex
+  1.2 data is too simple 
+  1.3 too much parameters
+  1.4 too less regularization
+
+2.underfitting:
+
+   2.1 model is too simple 
+   2.2 data is too comlex
+   2.3 too less parameters
+   2.4  too much regularization
+
+we can solve problem according to it's reason respectively
+
+
+problem2:
+ML used now：
+1.金融反欺诈
+2.量化交易
+3.文本分类
+
+
+problem3:
+ml used in the future
+1. 机器学习可以在微小的、低功耗的芯片上运行，利用深度学习可以做到非常高的能源利用率。
+2.语音合成
+3.机器能够高度还原人类语言状态，AI能够真的写出一本节奏紧凑感情丰富的小说
